@@ -1,2 +1,2 @@
-# CuR_mini_2018
-CuR Mini Project 
+# CUR Mini Robotics Project
+Cambridge Univeristy Robotics Society mini intro project: idea is to create and code a robot that can lift and deliver a small object.
